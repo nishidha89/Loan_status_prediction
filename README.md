@@ -7,7 +7,19 @@ To learn how to hypertune the parameters using RandomizedSearchCV for RandomFore
 To predict loan status
 
 # Attributes in the dataset
-Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income, Coapplicant income, Loan Amount,Loan_Amount_Term, Credit History, Property_Area, Loan_Status
+Loan id
+Gender
+Married
+Dependents
+Education
+Self Employed
+Applicant income
+Coapplicant income
+Loan Amount
+Loan_Amount_Term
+Credit History
+Property_Area
+Loan_Status
 
 # Model Accuracy
 Logistic Regression : 87%
