@@ -35,5 +35,6 @@ Loan_Status
 
 # Model Accuracy
 Logistic Regression : 87%
+
 RandomForestClassifier : 81%
 
