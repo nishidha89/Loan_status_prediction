@@ -8,19 +8,32 @@ To predict loan status
 
 # Attributes in the dataset
 Loan id
+
 Gender
+
 Married
+
 Dependents
+
 Education
+
 Self Employed
+
 Applicant income
+
 Coapplicant income
+
 Loan Amount
+
 Loan_Amount_Term
+
 Credit History
+
 Property_Area
+
 Loan_Status
 
 # Model Accuracy
 Logistic Regression : 87%
 RandomForestClassifier : 81%
+
