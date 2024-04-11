@@ -1,6 +1,6 @@
 # Loan_status_prediction
 # Aim
-Aim of the project is to use libraries like Pandas,NumPY,Seaborn to gain insights from data and RandomForestClassifier,logistic Regression,sklearn libraries for machine learning
+Aim of the project is to use libraries like Pandas,NumPY,Seaborn,Matplotlib to gain insights from data and RandomForestClassifier,logistic Regression,sklearn libraries for machine learning
 
 To learn how to hypertune the parameters using RandomizedSearchCV for RandomForestClassifer machine learning model.
 
